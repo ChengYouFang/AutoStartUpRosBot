@@ -1,5 +1,5 @@
 # AutoStartUpRosBot
-[使用教學文章](https://cyfangnotepad.blogspot.com/2019/05/automatically-startup-ros-bot-3022-on.html)
+[使用教學文章](https://cyfangnotepad.blogspot.com/2019/06/automatically-startup-ros-bot-3204-on.html)
 
 ## Tools
 - [VMware Workstation](https://www.vmware.com/go/getworkstation-win)
