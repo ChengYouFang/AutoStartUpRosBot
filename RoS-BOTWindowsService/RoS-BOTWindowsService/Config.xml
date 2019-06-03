@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List>
+  <!--使用者-->
+  <User>RoS-Bot@mail.com</User>
+  <!--密碼-->
+  <Password>password</Password>
+  <!--超過30min逾時-->
+  <Timeout>1800</Timeout>
+  <!--20min掃描一次-->
+  <Interval>1200</Interval>
+  <!--vmrun.exe路徑-->
+  <VMRUN_Path>Path\vmrun.exe</VMRUN_Path>
+  <!--虛擬機路徑-->
+  <MachinePath>Path\vmname.vmx</MachinePath>
+</List>
